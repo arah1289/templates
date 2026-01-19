@@ -1,11 +1,3 @@
-.hk-toggle-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
-  gap: 40px;
-  max-width: 1000px;
-  margin: auto;
-}
-
 .hk-toggle span {
   font-size: 13px;
   opacity: 0.8;
